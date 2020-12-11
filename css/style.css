@@ -1,0 +1,6 @@
+*{margin:0px;}
+.list{background:orange;padding:12px;}
+.list ul{display:flex; list-style:none;}
+.list ul li{}
+.list ul li a{padding:12px 30px; display:inline-block;text-decoration:none;}
+.slider{background:silver; height:500px;}
